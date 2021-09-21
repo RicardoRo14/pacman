@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ricardo\source\repos\PacMan\PacMan\Juego.h(733,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PacMan.vcxproj -> C:\Users\Ricardo\source\repos\PacMan\Debug\PacMan.exe
